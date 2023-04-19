@@ -1,9 +1,9 @@
 import React from "react";
 
-import facebookIcon from "../assets/icons8-facebook-30.png";
-import instagramIcon from "../assets/icons8-instagram-30.png";
-import twitterIcon from "../assets/icons8-twitter-30.png";
-import linkedinIcon from "../assets/icons8-linkedin-30.png";
+import facebookIcon from "../assets/fb.png";
+import instagramIcon from "../assets/ig.png";
+import twitterIcon from "../assets/twt.png";
+import linkedinIcon from "../assets/yt.png";
 
 import aarohan_banner from "../assets/aarohan_banner.png";
 
