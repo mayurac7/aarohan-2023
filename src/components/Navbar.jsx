@@ -4,8 +4,7 @@ import "../App.css";
 import closeIcon from "../assets/icons8-close-24.png";
 import menuIcon from "../assets/icons8-menu-24.png";
 import aarohanLogo from "../assets/logo_aarohan.png";
-
-
+import aarohan_ilu from "../assets/aarohan_ilu.png"
 const Navbar = () => {
   const [navDisplay, setNavDisplay] = useState(false);
 
@@ -87,7 +86,13 @@ const Navbar = () => {
             alt="menuIcon"
             onClick={DisplayNavigation}
           />
-          <h2 className="text-white font-bold mt-2 text-2xl">AAROHAN</h2>
+          <a href="/">
+          <img
+          className="w-6 mr-2 mt-1 mb-1 hw-ilu"
+          src={aarohan_ilu}
+          alt="aarohanLogo"
+        />
+          </a>
           <a href="/">
           <img
           className="w-6 mr-2 mt-1 mb-1"
