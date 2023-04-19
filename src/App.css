@@ -1,0 +1,22 @@
+.nav-hover:hover{
+    background-color: #ff6b00 !important;
+    color: white;
+}
+
+.center-nav{
+    align-items: center;
+}
+
+.font-nav{
+    font-family: 'Carter One', cursive;
+    font-weight: normal;
+    font-size: 1.1rem;
+}
+
+*{
+    font-family: 'Raleway', sans-serif;
+}
+
+.inner-div-margin{
+    padding: 30px !important;
+}
