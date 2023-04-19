@@ -3,7 +3,7 @@ import React from "react";
 import facebookIcon from "../assets/fb.png";
 import instagramIcon from "../assets/ig.png";
 import twitterIcon from "../assets/twt.png";
-import linkedinIcon from "../assets/yt.png";
+import youtubeIcon from "../assets/yt.png";
 
 import aarohan_banner from "../assets/aarohan_banner.png";
 
@@ -31,7 +31,7 @@ const Footer = () => {
           <div className="flex mt-10 justify-center items-center">
             <a href="https://twitter.com/mitaarohanfest"><img className="mr-3" src={twitterIcon} alt="twitterIcon"/></a>
             <a href="https://www.facebook.com/aarohanfest/"><img className="mr-3" src={facebookIcon} alt="facebookIcon" /></a>
-            <a href="https://www.linkedin.com/company/mit-wpu-aarohan-the-cultural-fest/mycompany/"><img className="mr-3" src={linkedinIcon} alt="linkedinIcon" /></a>
+            <a href="https://www.youtube.com/channel/UCyJmLBKeNCxUFVx23Qvb26Q"><img className="mr-3" src={youtubeIcon} alt="youtubeIcon" /></a>
             <a href="https://www.instagram.com/mitaarohanfest/"><img src={instagramIcon} alt="instagramIcon" /></a>
           </div>
         </div>
