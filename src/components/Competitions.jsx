@@ -19,7 +19,7 @@ const competitions = [
   <div className="inner-div-margin bg-streetPlay_mobile bg-cover md:bg-streetPlay md:bg-cover max-w-sm m-auto md:max-w-4xl rounded-md shadow-2xl md:m-auto py-4 px-4 md:py-4 bg-no-repeat">
   <Competition
   title="DASTAK"
-  text={`Music is to the soul as words are to the mind. Music gives wings to the mind and flights to the imagination and to reach the heights of euphoria Aarohan The Annual Cultural Fest of MITWPU brings you "Head Bang" An uplifting and upbeat band wars with different tones and pitches with melodies and harmonies. Get ready with your rhythms, blues, bass guitars, and percussion instruments creating a soundtrack to the good times.`}
+  text={`Performing a street play needs the presence of mind, enthusiasm and energy level to make a great impact on society. Encouraging this idea of performing street plays, Aarohan the Annual Cultural Fest of MITWPU presents to you "Dastak" a competition for the most popular wind spread form of drama, street plays. The catchy phrases and songs and humor are what Dastak is looking for to make a long-lasting and powerful effect on youth. Ready up your crew and lead the way towards positive change in society.`}
   />
   </div>,
   <div className="inner-div-margin bg-soloDance_mobile bg-cover md:bg-cover md:bg-soloDance max-w-sm m-auto md:max-w-4xl md:m-auto py-4 px-4 md:py-4 bg-no-repeat rounded-md shadow-2xl">
@@ -56,7 +56,7 @@ const competitions = [
       <div className="inner-div-margin bg-artMaestro_mobile bg-cover md:bg-artMaestro md:bg-cover max-w-sm m-auto md:max-w-4xl md:m-auto py-4 px-4 md:py-4 bg-no-repeat rounded-md shadow-2xl">
       <Competition
       title="ART MAESTRO"
-      text={`Instrumental- a music genre where melody overcomes lyrics as emotions overtake thought. Aarohan the Annual Cultural Fest of MITWPU brings you the essence of this timeless music genre "Instrumental". A harmonious and graceful competition where one can express feelings in tones beyond words. Let your emotions radiate and shine without restricting them to intellect, enriched by your sentiments.`}
+      text={`With never ending imagination what everyone needs is a place where we can showcase our imagination and art being such a creative field, it never fail to amuse us. We know that art is way to deliver your thoughts on the paper which cannot be expressed through words . At Aarohan, we organize “Art maestro” for young talent to participate and showcase their talent. The topics for this artistic competition are “Elemental”, “Environment ” and “Deep sea” . It is a dedicated event for all the young artists out there to participate and win exciting gifts and prizes.`}
       />
       </div>,
       <div className="inner-div-margin bg-fashion_mobile bg-cover md:bg-fashion md:bg-cover max-w-sm m-auto md:max-w-4xl md:m-auto py-4 px-4 md:py-4 bg-no-repeat rounded-md shadow-2xl">
