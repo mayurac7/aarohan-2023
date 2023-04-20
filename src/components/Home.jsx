@@ -186,8 +186,8 @@ const Home = () => {
     ) : (
       <>
       <div className="bg-background-image bg-contain bg-repeat-y md:bg-cover p-10 md:p-16 rounded-sm shadow-lg">
-      <section class="hero container max-w-screen-lg mx-auto text-center pb-10 desktop-only">
-            <div class="transition ease-in-out hover:scale-x-110 hover:scale-y-110 duration-500">
+      <section className="hero container max-w-screen-lg mx-auto text-center pb-10 desktop-only">
+            <div className="transition ease-in-out hover:scale-x-110 hover:scale-y-110 duration-500">
             <img src={aarohan_ilu} alt="screenshot" width="1000" height="550" />
           </div>
         </section>  
